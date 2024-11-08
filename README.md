@@ -1,5 +1,5 @@
 # emo-clf-chatbots
-This is one of my NLP pet projects. It classifies messages based on the emotion expressed (sadness, joy, love, anger, fear, and suprise). It may be useful for some chatbots to identify emotions of the person who uses it.
+This is one of my NLP pet projects. It classifies messages written in English based on the expressed emotion (sadness, joy, love, anger, fear, and suprise). It may be useful for some chatbots to identify emotions of the person who uses it.
 
 This project uses 2 ML models for this:
   1) Logit Regression (multinominal regression)
